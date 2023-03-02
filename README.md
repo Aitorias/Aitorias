@@ -1,5 +1,4 @@
-# Welcome to Aitorias' GitHub
-
+# Welcome! I'm Aitorias
 ### I am pleased to meet you! :smile:
 
 I am a **web application developer** and **SEO expert from Barcelona**, Spain.
