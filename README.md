@@ -1,3 +1,5 @@
+![Aitorias GitHub profile](/terminal.gif)
+
 # Welcome! I'm Aitorias
 ### I am pleased to meet you! :smile:
 
