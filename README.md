@@ -26,7 +26,7 @@ Below, I am going to show a table with 5 very basic examples of Linux terminal c
 
 &nbsp;
 
-### Bahs aliases for Linux
+### Bash aliases for Linux
 
 Here I am going to show some examples of Linux aliases that I personally find useful when working with the terminal:
 
