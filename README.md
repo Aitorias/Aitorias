@@ -14,4 +14,4 @@ I am currently taking a full-stack development bootcamp in JavaScript to increas
 
 Below, you will find a link with knowledge that I have been acquiring over the years:
 
-[knowledge.md](https://github.com/aitorias/aitorias/blob/main/README.md) de mi perfil de GitHub.
+[knowledge.md](https://github.com/aitorias/aitorias/blob/main/knowledge.md)
