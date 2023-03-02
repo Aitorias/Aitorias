@@ -7,7 +7,7 @@ I am a **web application developer** and **SEO expert from Barcelona**, Spain.
 
 I love **front-end development** and I am specialized in PHP, SQL and JavaScript.
 
-I am currently taking a full-stack development bootcamp in JavaScript to increase my knowledge. :books:
+I am currently taking a full-stack development bootcamp in JavaScript to improve my knowledge. :books:
 
 &nbsp;
 
