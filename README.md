@@ -1,7 +1,9 @@
 ![Aitorias GitHub profile](/aitorias-terminal.gif)
 
 # Welcome! I'm Aitorias
-## I am pleased to meet you! :smile:
+### I am pleased to meet you! :smile:
+
+&nbsp;
 
 I am a **web application developer** and **SEO expert from Barcelona**, Spain.
 
@@ -15,4 +17,4 @@ I am currently taking a JavScript full-stack development bootcamp to improve my 
 
 Below, you will find a link with knowledge that I have been acquiring over the years:
 
-[knowledge.md](https://github.com/aitorias/aitorias/blob/main/knowledge.md)
+[My programming knowledge repository](https://github.com/aitorias/aitorias/blob/main/knowledge.md)
