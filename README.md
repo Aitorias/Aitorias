@@ -1,13 +1,13 @@
 ![Aitorias GitHub profile](/aitorias-terminal.gif)
 
 # Welcome! I'm Aitorias
-### I am pleased to meet you! :smile:
+## I am pleased to meet you! :smile:
 
 I am a **web application developer** and **SEO expert from Barcelona**, Spain.
 
 I love **front-end development** and I am specialized in PHP, SQL and JavaScript.
 
-I am currently taking a full-stack development bootcamp in JavaScript to improve my knowledge. :books:
+I am currently taking a JavScript full-stack development bootcamp to improve my knowledge. :books:
 
 &nbsp;
 
