@@ -1,5 +1,6 @@
-![tenor](https://github.com/aitorias/aitorias/assets/6051056/53d0c99e-ff8e-41d9-bc67-da097ae03069)
-
+<div align="center">
+  <img alt="@aitorias" src="https://private-user-images.githubusercontent.com/6051056/293721256-53d0c99e-ff8e-41d9-bc67-da097ae03069.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQyMTEyODksIm5iZiI6MTcwNDIxMDk4OSwicGF0aCI6Ii82MDUxMDU2LzI5MzcyMTI1Ni01M2QwYzk5ZS1mZjhlLTQxZDktYmM2Ny1kYTA5N2FlMDMwNjkuZ2lmP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDEwMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAxMDJUMTU1NjI5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OTFhMzA0NDc0ZjZmYjY3YzVmZGE5ZGJhNzQzYzI5NTVhNGFjOTM1YzRkNzI3MDE5NTcyNGMxYTA1NGVkNmIzYyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.J6361EkeoqlUJ0GzwsoLZM0_N8Lmpjd1II00x-5Cook" style="max-width: 100%; height: auto;">
+</div>
 
 # Hi! I'm Aitorias, nice to meet you! :smile:
 
