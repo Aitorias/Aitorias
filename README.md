@@ -4,8 +4,6 @@
 
 # Hi! I'm Aitorias, nice to meet you! :smile:
 
-&nbsp;
-
 -   I am a **web application developer** specialized in **front-end development** 🖥️ and **SEO expert** 🎯 from Barcelona, Spain.
 -   Learning and improving my coding skills, like back-end development, databases, and AI.
 -   I love sports, like rugby 🏉, american football 🏈, football/soccer ⚽ and basketball 🏀.
@@ -34,7 +32,7 @@
 
 &nbsp;
 
-## My Website
+## 🖥️ My Website
 
 I have designed my simple personal website with GitHub Pages, I hope you like it!
 
